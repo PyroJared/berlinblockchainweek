@@ -28,7 +28,7 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: RChain Devcon3
+title: RCon3 - RChain Developer Conference
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
@@ -43,7 +43,7 @@ description: RCon3 brings together network validators, dApp developers,
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: RChain Devcon3
+name: RChain Devcon3 (Coupon Code: BLOCKCHAINWEEK)
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -103,7 +103,7 @@ tickets: https://developer.rchain.coop/conference
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: 0
+price: 10
 
 # The name of the venue where the event will be held. Can be left empty.
 venue: Berlin Congress Center
